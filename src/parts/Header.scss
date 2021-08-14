@@ -1,0 +1,15 @@
+
+nav{
+    border-bottom: solid 1px #E5E5E5;
+    ul{
+        margin: 0;
+        li{
+            font-family: 'poppins',sans-serif;
+            font-size: 16px;
+            list-style: none;
+            &.active{
+                font-weight: 600;
+            }
+        }
+    }
+}
